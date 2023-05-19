@@ -1,0 +1,33 @@
+#paragrafos_3
+{
+    background-color:green;
+}
+
+.paragrafos_2{
+    background-image: url(madeira.jpg);
+}
+
+#paragrafos{
+    background-image: url(madeira.jpg);
+}
+
+#primeiro_p{
+    color:red;
+}
+
+.titulo{
+    color:#ff0000;
+}
+
+#base
+{
+    height: 10px;
+    background-color:red;
+}
+
+#container
+{
+    background-color:blue;
+    color:white;
+    padding:10px;
+}
